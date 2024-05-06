@@ -16,4 +16,4 @@ cp config/config.php.example config/config.php
 
 5. Jalankan sql di file ```src/db/db.sql``` untuk membuat tabel dan seeding data
 
-6. Buka http://localhost/app_data, login dengan default username ```admin``` password ```12345678```
+6. Buka http://localhost/app_data, login dengan default username ```admin``` password ```12345```
